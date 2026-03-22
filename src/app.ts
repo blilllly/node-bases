@@ -1,7 +1,7 @@
 // const { emailTemplate } = require('./js-foundation/01-template');
 
-import { getPokemonByNameId } from './js-foundation/06-promises.js';
-import { buildLogger } from './plugins/index.js';
+// import { getPokemonByNameId } from './js-foundation/06-promises.js';
+// import { buildLogger } from './plugins/index.js';
 
 // require('./js-foundation/02-destucturing');
 // const { getUserById } = require('./js-foundation/03-callbacks');
@@ -9,7 +9,7 @@ import { buildLogger } from './plugins/index.js';
 
 // const getPokemonById = require('./js-foundation/06-promises');
 
-getPokemonByNameId(10).then(console.log);
+// getPokemonByNameId(10).then(console.log);
 
 // getPokemonById(4)
 //   .then((pokemon) => console.log({ pokemon }))
@@ -33,7 +33,7 @@ getPokemonByNameId(10).then(console.log);
 
 // const { buildLogger } = require('./plugins');
 
-const logger = buildLogger('app.js');
+// const logger = buildLogger('app.js');
 
-logger.log('Hola mundo');
-logger.error('Esto es algo malo');
+// logger.log('Hola mundo');
+// logger.error('Esto es algo malo');
