@@ -17,7 +17,6 @@ npx init jest@latest
 3. En el archivo **jest.config.js** configurar
 
 ```
-preset: 'ts-jest',
 testEnvironment: "jest-environment-node",
 
 // Opcional - The paths to modules that run some code to configure or set up the testing environment before each test
