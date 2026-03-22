@@ -11,7 +11,7 @@ npm install -D jest @types/jest ts-jest supertest
 2. Crear archivo de configuración de Jest
 
 ```
-npx init jest@latest
+npx create-jest
 ```
 
 3. En el archivo **jest.config.js** configurar
