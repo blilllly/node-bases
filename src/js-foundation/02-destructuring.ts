@@ -4,7 +4,7 @@ const { windir, USERDOMAIN } = process.env;
 
 // console.table({ windir, USERDOMAIN });
 
-const characters = ['Flash', 'Superman', 'Green Lantern', 'Batman'];
+export const characters = ['Flash', 'Superman', 'Green Lantern', 'Batman'];
 
 const [, , , batman] = characters;
 
